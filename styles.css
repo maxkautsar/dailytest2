@@ -1,17 +1,16 @@
-h1{
-    font-weight: bold;
-    color:white;
+.h1{
     text-align: center;
-
+    color: white ;
+    font-weight: bold;
 }
-
-P{
-    color: greenyellow;
+.p {
+     color: greenyellow;
     text-align: center;
     font-family: 'Gill Sans', sans-serif
-
 }
 
-body{
-    background-color: darkslateblue;
+    
+
+.body{
+    background-color: darkslateblue
 }
